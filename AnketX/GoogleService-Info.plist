@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>89147939583-uiruqbgkk71h4jc6s6m3hgahso8hjp61.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.89147939583-uiruqbgkk71h4jc6s6m3hgahso8hjp61</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-9goU1jrZv5OizBn9HJD5nI70Y44YqqI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>89147939583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>canayisik.AnketX</string>
+	<key>PROJECT_ID</key>
+	<string>anketx-ccec8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anketx-ccec8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:89147939583:ios:f0634818a1d3466def0aca</string>
+	<key>DATABASE_URL</key>
+	<string>https://anketx-ccec8.firebaseio.com</string>
+</dict>
+</plist>
